@@ -1,0 +1,10 @@
+- Mail sender, reminder
+- Email exchange
+- Chat tool
+- Youtube downloader app
+- Web crawlers
+- Cricket score alerts on desktop/Email/SMS
+- Share price alerts on Desktop/Email/SMS
+- Bill due reminders, Meeting reminders, as Email/SMS
+- Birthday reminders through EMAIL/SMS
+- Salary calculator
